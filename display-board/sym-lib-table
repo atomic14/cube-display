@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Display4x16segment-rescue")(type "Legacy")(uri "${KIPRJMOD}/display-board-rescue.lib")(options "")(descr ""))
+)
